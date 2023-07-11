@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919159209920",
+    "project_id": "israpp-f0fa3",
+    "storage_bucket": "israpp-f0fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919159209920:android:8afcbd16347afd603f1225",
+        "android_client_info": {
+          "package_name": "com.example.harezmi_cuma_2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vLEA0ermLXWApGLub8UUrtLlZJl_b2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
