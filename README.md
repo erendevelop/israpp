@@ -1,2 +1,2 @@
 # IsrApp
-An application about prevent the food waste.
+An application about prevent the food wastage.
